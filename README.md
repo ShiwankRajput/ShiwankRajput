@@ -3,25 +3,35 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShiwankRajput&show_icons=true&theme=radical)
 
 
-## 🛠️ Languages and Tools
+## 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" alt="java" height="50"/>
+  </a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" height="50"/>
+  </a> &nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="react" height="50"/>
+  </a> &nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=python" alt="python" height="50"/>
+  </a> &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="html" height="50"/>
+  </a> &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="css" height="50"/>
+  </a> &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="git" height="50"/>
+  </a> &nbsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="github" height="50"/>
+  </a>
 </p>
+
 
 
 ## 🔥 Streak Stats
