@@ -66,7 +66,5 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShiwankRajput&theme=radical)
 
-## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ShiwankRajput&theme=radical)
 
